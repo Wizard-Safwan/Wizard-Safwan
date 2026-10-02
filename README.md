@@ -9,7 +9,7 @@
 
 ---
 # 💫 About Me:
-A Computer Science and Engineering graduate passionate about building modern web applications and exploring AI/ML technologies.<br><br>🌱 Currently learning Full-Stack Web Development with Next.js, React, and TypeScript.<br>💻 Interested in Software Engineering, AI/ML, and Computer Vision.<br>🚀 Enjoy building practical projects and solving real-world problems through technology.<br>🤝 Always eager to learn new technologies and collaborate on meaningful projects.<br>📫 Reach me at safwanchy9919@gmail.com
+A Computer Science and Engineering graduate passionate about building modern web applications and exploring AI/ML technologies.<br><br>- 🌱 Currently learning Full-Stack Web Development with Next.js, React, and TypeScript.<br>- 💻 Interested in Software Engineering, AI/ML, and Computer Vision.<br>- 🚀 Enjoy building practical projects and solving real-world problems through technology.<br>- 🤝 Always eager to learn new technologies and collaborate on meaningful projects.<br>- 📫 Reach me at safwanchy9919@gmail.com
 
 
 ## 🌐 Socials:
