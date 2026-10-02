@@ -27,4 +27,18 @@ A Computer Science and Engineering graduate passionate about building modern web
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Wizard-Safwan&style=flat-square)
+## Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wizard-Safwan/Wizard-Safwan/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wizard-Safwan/Wizard-Safwan/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wizard-Safwan/Wizard-Safwan/output/github-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wizard-Safwan&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
